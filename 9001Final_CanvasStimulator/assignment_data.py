@@ -1,0 +1,1 @@
+course_assignments = {'COMP9001': [{'title': 'Intro Quiz', 'due_date': '2025-06-01'}], 'COMP9601': [{'title': 'Unit1 Task', 'due_date': '2025-06-05'}], 'INFO6007': [{'title': 'Info Project', 'due_date': '2025-06-15'}], 'DATA5207': [{'title': 'Data Lab', 'due_date': '2025-06-10'}], 'COMP9120': []}

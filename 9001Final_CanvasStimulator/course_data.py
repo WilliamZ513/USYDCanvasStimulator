@@ -1,0 +1,1 @@
+user_courses = {'szha0088': ['COMP9001', 'COMP9601', 'INFO6007', 'DATA5207', 'COMP9120']}

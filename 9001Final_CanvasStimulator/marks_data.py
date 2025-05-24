@@ -1,0 +1,1 @@
+marks = {'szha0088': {('COMP9001', 'Intro Quiz'): 40}}
